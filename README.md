@@ -1,3 +1,3 @@
-# yangc95.github.io
+# Welcome to [my Portfolio](https://yangc95.github.io) site's repository!
 
-### Hi!
+Feel free to look around.
